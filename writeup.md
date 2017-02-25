@@ -1,7 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup 
-
 [//]: # (Image References)
 [image1]: ./examples/grayscale.jpg
 [original]: ./test_images/solidYellowCurve.jpg
@@ -9,8 +7,7 @@
 [canny]: ./test_images/canny.jpg
 [roi]: ./test_images/roi.jpg
 [hough]: ./test_images/hough.jpg
-[extrapolated_on_image]: ./test_images/hough.jpg
----
+[extrapolated_on_image]: ./test_images/extrapolated_on_image.jpg
 
 ### 1. Pipeline description
 
